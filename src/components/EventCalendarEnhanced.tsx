@@ -232,7 +232,7 @@ const EventCalendarEnhanced = () => {
                     alt="Historic Hopewell Foundation: A Celebration of America’s 250 banner"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="Historic Hopewell Foundation: A Celebration of America’s 250"
-                  /><figcaption><strong>Historic Hopewell Foundation: A Celebration of America’s 250</strong></figcaption></figure>
+                  /><figcaption><strong>HHF: A Celebration of America’s 250</strong></figcaption></figure>
                 </a>
                 </td>  
       </tr>
