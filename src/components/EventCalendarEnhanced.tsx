@@ -220,7 +220,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>General Ulysses S. Grant at City Point</strong></figcaption></figure>
                 </a>
 </td> 
-<td style={{ width: '110px', border: 'none', padding: '4px' }}>        
+<td style={{ width: '112px', border: 'none', padding: '4px' }}>        
                 <a
                   href="https://itdept9800013c97-dkqyi.wordpress.com/historic-hopewell-foundation-a-celebration-of-americas-250/" 
                   target="_blank" 
