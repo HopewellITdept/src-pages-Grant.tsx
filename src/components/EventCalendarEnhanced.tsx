@@ -228,7 +228,7 @@ const EventCalendarEnhanced = () => {
                   className="block max-w-xs"
                 >            
                   <figure><img
-                    src="https://github.com/HopewellITdept/src-pages-Grant.tsx/blob/main/public/lovable-uploads/HHF%20banner.jpg"
+                    src="/lovable-uploads/HHF%20banner.jpg"
                     alt="Historic Hopewell Foundation: A Celebration of America’s 250 banner"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="Historic Hopewell Foundation: A Celebration of America’s 250"
