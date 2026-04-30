@@ -222,34 +222,19 @@ const EventCalendarEnhanced = () => {
 </td> 
 <td style={{ width: '100px', border: 'none', padding: '5px' }}>        
                 <a
-                  href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
+                  href="https://github.com/HopewellITdept/src-pages-Grant.tsx/blob/main/public/lovable-uploads/HHF%20banner.jpg" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
                 >            
                   <figure><img
-                    src="/lovable-uploads/War-2.jpg"
-                    alt="Photo of war generals "
+                    src="https://github.com/HopewellITdept/src-pages-Grant.tsx/blob/main/public/lovable-uploads/HHF%20banner.jpg"
+                    alt="Historic Hopewell Foundation: A Celebration of America’s 250 banner"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="War Stories and Heroes of Hopewell, Virginia"
-                  /><figcaption><strong>War Stories & Heroes of Hopewell</strong></figcaption></figure>
+                    title="Historic Hopewell Foundation: A Celebration of America’s 250"
+                  /><figcaption><strong>Historic Hopewell Foundation: A Celebration of America’s 250</strong></figcaption></figure>
                 </a>
-                </td> 
- <td style={{ width: '100px', border: 'none', padding: '5px' }}>   
-<a
-                  href="https://hopewellva250-events.org/" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >
-                  <figure><img
-                    src="/lovable-uploads/Grant.jpg"
-                    alt="Photo of a General Grant"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="General Ulysses S. Grant at City Point"
-                  /><figcaption><strong>General Ulysses S. Grant at City Point</strong></figcaption></figure>
-                </a>
-</td>    
+                </td>  
       </tr>
 </table>
               </motion.div>
