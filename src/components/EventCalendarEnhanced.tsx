@@ -175,7 +175,7 @@ const EventCalendarEnhanced = () => {
               >
 <table style={{ width: '540px', borderCollapse: 'collapse', border: 'none', }}>
   <tr>
-<td style={{ width: '100px', border: 'none', padding: '4px' }}>      
+<td style={{ width: '90px', border: 'none', padding: '4px' }}>      
                 <a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
@@ -207,7 +207,7 @@ const EventCalendarEnhanced = () => {
                 </td>
 </tr>
 <tr> 
- <td style={{ width: '100px', border: 'none', padding: '4px' }}>   
+ <td style={{ width: '90px', border: 'none', padding: '4px' }}>   
 <a
                   href="https://hopewellva250-events.org/" 
                   target="_blank" 
@@ -222,7 +222,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>General Ulysses S. Grant at City Point</strong></figcaption></figure>
                 </a>
 </td> 
-<td style={{ width: '113px', border: 'none', padding: '4px' }}>        
+<td style={{ width: '103px', border: 'none', padding: '4px' }}>        
                 <a
                   href="https://itdept9800013c97-dkqyi.wordpress.com/historic-hopewell-foundation-a-celebration-of-americas-250/" 
                   target="_blank" 
@@ -239,7 +239,7 @@ const EventCalendarEnhanced = () => {
                 </td>  
       </tr>
 <tr> 
- <td style={{ width: '100px', border: 'none', padding: '4px' }}>   
+ <td style={{ width: '90px', border: 'none', padding: '4px' }}>   
 <a
                   href="/lovable-uploads/Weston%20Manor%20Summer%20Concert%20Series_June%202026.jpg" 
                   target="_blank" 
