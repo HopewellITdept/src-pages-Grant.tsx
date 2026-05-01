@@ -173,7 +173,7 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
- <table style={{ width: '540px', borderCollapse: 'collapse', border: 'none', }}>
+<table style={{ width: '540px', borderCollapse: 'collapse', border: 'none', }}>
   <tr>
 <td style={{ width: '100px', border: 'none', padding: '4px' }}>      
                 <a
@@ -238,6 +238,23 @@ const EventCalendarEnhanced = () => {
                 </a>
                 </td>  
       </tr>
+<tr> 
+ <td style={{ width: '100px', border: 'none', padding: '4px' }}>   
+<a
+                  href="/lovable-uploads/Weston%20Manor%20Summer%20Concert%20Series_June%202026.jpg" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block max-w-xs"
+                >
+                  <figure><img
+                    src="/lovable-uploads/Weston%20Manor%20.jpg"
+                    alt="Photo of a Weston Manor event"
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="Weston Manor's Sounds of Summer"
+                  /><figcaption><strong>Weston Manor's Sounds of Summer</strong></figcaption></figure>
+                </a>
+</td> 
+</tr>
 </table>
               </motion.div>
             </motion.div>
