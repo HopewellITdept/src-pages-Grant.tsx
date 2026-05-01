@@ -173,7 +173,7 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
-<table style={{ width: '540px', borderCollapse: 'collapse', border: 'none', }}>
+<table style={{ width: '550px', borderCollapse: 'collapse', border: 'none', }}>
   <tr>
 <td style={{ width: '90px', border: 'none', padding: '3px' }}>      
                 <a
