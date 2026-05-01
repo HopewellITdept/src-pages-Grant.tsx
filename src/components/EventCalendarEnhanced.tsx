@@ -9,7 +9,7 @@ const EventCalendarEnhanced = () => {
   const [selectedFilter, setSelectedFilter] = useState<string>('all');
 
   // Empty events array - all events to be announced
-  const events: any[] = [];
+  const events: any[] = []; 
 
   const eventTypes = [
     { value: 'all', label: 'All Events' },
@@ -204,7 +204,9 @@ const EventCalendarEnhanced = () => {
                     title="War Stories and Heroes of Hopewell, Virginia"
                   /><figcaption><strong>War Stories & Heroes of Hopewell</strong></figcaption></figure>
                 </a>
-                </td> 
+                </td>
+</tr>
+<tr> 
  <td style={{ width: '100px', border: 'none', padding: '4px' }}>   
 <a
                   href="https://hopewellva250-events.org/" 
