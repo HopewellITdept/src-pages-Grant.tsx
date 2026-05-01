@@ -190,7 +190,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>City Point Historic District Walking Tour</strong></figcaption></figure>
                 </a>
 </td>
-<td style={{ width: '55px', border: 'none', padding: '4px' }}>        
+<td style={{ width: '35px', border: 'none', padding: '4px' }}>        
                 <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
