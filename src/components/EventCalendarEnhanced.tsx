@@ -255,62 +255,6 @@ const EventCalendarEnhanced = () => {
 </tr>
 
 </table>
-
-
-
-
-
-
-
-
-
-import React from 'react';
-import { MapPin, Clock, Camera } from 'lucide-react';
-
-const SitesGallery = () => {
-  const historicSites = [
-    {
-      id: 1,
-      name: 'City Point Historic District Walking Tour',
-      description: 'Highlights and places to visit',
-      image: '/lovable-uploads/Ships-offshore_r.jpg',
-      address: 'Multiple sites, Hopewell, VA',
-      details: '1.8 miles, 30 minutes'
-    },
-    {
-      id: 2,
-      name: 'War Stories & Heroes of Hopewell',
-      description: 'In Honor of Hopewell Heroes',
-      image: '/lovable-uploads/War-2.jpg',
-      address: 'Weston Lane, Hopewell, VA',
-      details: 'This StoryMap was created to share and preserve a portion of Hopewell, Virginia's war history'
-    },
-    {
-      id: 3,
-      name: 'General Ulysses S. Grant at City Point',
-      description: 'Grant at City Point Living History',
-      image: '/lovable-uploads/Grant.jpg',
-      address: 'City Point, Hopewell, VA',
-      details: 'General Ulysses S. Grant and his staff will once again set up their headquarters at the park’s City Point unit, just like they did back in 1864!'
-    },
-    {
-      id: 4,
-      name: 'Historic Hopewell Foundation: A Celebration of America’s 250',
-      description: 'Free tour Tuesday runs June 2nd through September 29th',
-      image: '/lovable-uploads/HHF%20banner.jpg',
-      address: 'Weston Manor, Hopewell, VA',
-      details: 'Learn about the history of all of those who lived and labored at Weston Manor. Children and adults welcome!'
-    },
-    {
-      id: 5,
-      name: 'Weston Manor's Sounds of Summer',
-      description: 'Concerts of the Appomattox',
-      image: '/lovable-uploads/Weston%20Manor%20.jpg',
-      address: 'Weston Manor, Hopewell, VA',
-      details: 'Presented by the Historic Hopewell Foundation'
-    }
-  ];
-
               </motion.div>
             </motion.div>
           </BackgroundGradient>
