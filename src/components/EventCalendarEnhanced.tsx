@@ -264,7 +264,7 @@ const EventCalendarEnhanced = () => {
   );
 };
 
-export default EventCalendarEnhanced;
+export default EventCalendarEnhanced; 
 
 
 
