@@ -190,7 +190,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>City Point Historic District Walking Tour</strong></figcaption></figure>
                 </a>
 </td>
-<td style={{ width: '50px', border: 'none', padding: '2px' }}>        
+<td style={{ width: '30px', border: 'none', padding: '2px' }}>        
                 <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
@@ -221,7 +221,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>General Ulysses S. Grant at City Point</strong></figcaption></figure>
                 </a>
 </td> 
-<td style={{ width: '50px', border: 'none', padding: '2px' }}>        
+<td style={{ width: '30px', border: 'none', padding: '2px' }}>        
                 <a
                   href="https://itdept9800013c97-dkqyi.wordpress.com/historic-hopewell-foundation-a-celebration-of-americas-250/" 
                   target="_blank" 
