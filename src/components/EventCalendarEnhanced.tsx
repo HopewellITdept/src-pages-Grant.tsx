@@ -173,10 +173,7 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
-<table style={{ width: '580px', borderCollapse: 'collapse', border: 'none', }}>
-  <tr>
-<td style={{ width: '50px', border: 'none', padding: '2px' }}>      
-                <a
+<a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -189,9 +186,7 @@ const EventCalendarEnhanced = () => {
                     title="City Point Historic District Walking Tour"
                   /><figcaption><strong>City Point Historic District Walking Tour</strong></figcaption></figure>
                 </a>
-</td>
-<td style={{ width: '30px', border: 'none', padding: '2px' }}>        
-                <a
+ <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -204,10 +199,7 @@ const EventCalendarEnhanced = () => {
                     title="War Stories and Heroes of Hopewell, Virginia"
                   /><figcaption><strong>War Stories & Heroes of Hopewell</strong></figcaption></figure>
                 </a>
-                </td>
-
- <td style={{ width: '50px', border: 'none', padding: '2px' }}>   
-<a
+ <a
                   href="https://hopewellva250-events.org/" 
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -220,9 +212,7 @@ const EventCalendarEnhanced = () => {
                     title="General Ulysses S. Grant at City Point"
                   /><figcaption><strong>General Ulysses S. Grant at City Point</strong></figcaption></figure>
                 </a>
-</td> 
-<td style={{ width: '10px', border: 'none', padding: '2px' }}>        
-                <a
+ <a
                   href="https://itdept9800013c97-dkqyi.wordpress.com/historic-hopewell-foundation-a-celebration-of-americas-250/" 
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -235,10 +225,7 @@ const EventCalendarEnhanced = () => {
                     title="Historic Hopewell Foundation: A Celebration of America’s 250"
                   /><figcaption><strong>HHF: A Celebration of America’s 250</strong></figcaption></figure>
                 </a>
-                </td>  
-
- <td style={{ width: '50px', border: 'none', padding: '2px' }}>   
-<a
+ <a
                   href="/lovable-uploads/Weston%20Manor%20Summer%20Concert%20Series_June%202026.jpg" 
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -251,10 +238,7 @@ const EventCalendarEnhanced = () => {
                     title="Weston Manor's Sounds of Summer"
                   /><figcaption><strong>Weston Manor's Sounds of Summer</strong></figcaption></figure>
                 </a>
-</td> 
-</tr>
 
-</table>
               </motion.div>
             </motion.div>
           </BackgroundGradient>
