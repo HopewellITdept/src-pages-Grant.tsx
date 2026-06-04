@@ -100,6 +100,23 @@ const eventTypes = [
           transition={{ duration: 0.6 }}
         >
           {/* View Toggle */}
+          <div className="flex bg-gray-100 rounded-lg p-1 shadow-inner">
+            <motion.button
+              className="px-6 py-3 rounded-md font-semibold text-gray-400 cursor-not-allowed"
+              disabled
+            >
+              List View
+            </motion.button>
+            <motion.button
+              className="px-6 py-3 rounded-md font-semibold text-gray-400 cursor-not-allowed"
+              disabled
+            >
+              Month View
+            </motion.button>
+          </div>
+
+          
+          {/* View Toggle */}
 
 
           {/* Filter */}
