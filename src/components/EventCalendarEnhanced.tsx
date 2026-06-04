@@ -239,6 +239,20 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>Weston Manor's Sounds of Summer</strong></figcaption></figure>
                 </a>
 
+ <a
+                  href="https://itdept9800013c97-dkqyi.wordpress.com/hooray-for-hopewell-history/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block max-w-xs"
+                >
+                  <figure><img
+                    src="/lovable-uploads/Hooray%20for%20Hopewell%20History%20Image.png"
+                    alt="Photo of a Hopewell History event"
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="Hooray for Hopewell History"
+                  /><figcaption><strong>Weston Manor's Sounds of Summer</strong></figcaption></figure>
+                </a>
+                
               </motion.div>
             </motion.div>
           </BackgroundGradient>
