@@ -10,7 +10,11 @@ const EventCalendarEnhanced = () => {
 
   // Empty events array - all events to be announced
   const events: any[] = []; 
-
+  
+  const filteredEvents = selectedFilter === 'all' 
+    ? events 
+    
+    : events.filter(event => event.type === selectedFilter);
   const filteredEvents = selectedFilter === 'all' 
     ? events 
     : events.filter(event => event.type === selectedFilter);
