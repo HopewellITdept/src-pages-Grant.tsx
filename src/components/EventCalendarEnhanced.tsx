@@ -182,9 +182,7 @@ const EventCalendarEnhanced = () => {
 | **HHF: A Celebration of America’s 250** | **Weston Manor's Sounds of Summer** | **Weston Manor's Sounds of Summer** |
 | <a href="https://wordpress.com" target="_blank"><img src="/lovable-uploads/HHF%20banner-2.jpg" alt="Historic Hopewell Foundation: A Celebration of America’s 250 banner" title="Historic Hopewell Foundation: A Celebration of America’s 250" width="180" height="180" /></a> | <a href="/lovable-uploads/Weston%20Manor%20Summer%20Concert%20Series_June%202026.jpg" target="_blank"><img src="/lovable-uploads/Weston%20Manor%20-2.jpg" alt="Photo of a Weston Manor event" title="Weston Manor's Sounds of Summer" width="180" height="180" /></a> | <a href="https://wordpress.com" target="_blank"><img src="/lovable-uploads/Hooray%20for%20Hopewell%20History%20Image.png" alt="Photo of a Hopewell History event" title="Hooray for Hopewell History" width="180" height="180" /></a> |
 | **HHF: A Celebration of America’s 250** | **Weston Manor's Sounds of Summer** | **Weston Manor's Sounds of Summer** |
-Use code with caution.Key Adjustments for GitHub:Native Tables: Replaced HTML <table> elements with Markdown pipes (|) and hyphens (---) to ensure standard GitHub rendering.Text Alignment: Used :---: in the separator row to natively force all text and images to center-align without CSS.Inline Dimensions: Set image sizing directly using the HTML width="180" and height="180" attributes inside the image tags, which GitHub natively supports.No Stripped Tags: Removed <figure> and <figcaption> completely to prevent GitHub's parser from breaking the layout tree.Would you like to modify the last item's text to correct the duplicate caption "Weston Manor's Sounds of Summer"? We can also make the images link to local files inside your repository instead of your absolute folder paths. Let me know if you want to add header row text to label the columns explicitly.
-
-                
+            
               </motion.div>
             </motion.div>
           </BackgroundGradient>
