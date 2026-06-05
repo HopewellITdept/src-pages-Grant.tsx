@@ -174,15 +174,96 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
-| City Point Historic District Walking Tour | War Stories & Heroes of Hopewell | General Ulysses S. Grant at City Point |
-| :---: | :---: | :---: |
-| <a href="https://arcgis.com" target="_blank"><img src="/lovable-uploads/Ships-offshore_r.jpg" alt="Photo of a ship" title="City Point Historic District Walking Tour" width="180" height="180" /></a> | <a href="https://arcgis.com" target="_blank"><img src="/lovable-uploads/War-2.jpg" alt="Photo of war generals" title="War Stories and Heroes of Hopewell, Virginia" width="180" height="180" /></a> | <a href="https://hopewellva250-events.org" target="_blank"><img src="/lovable-uploads/Grant.jpg" alt="Photo of a General Grant" title="General Ulysses S. Grant at City Point" width="180" height="180" /></a> |
-| **City Point Historic District Walking Tour** | **War Stories & Heroes of Hopewell** | **General Ulysses S. Grant at City Point** |
-| | | |
-| **HHF: A Celebration of America’s 250** | **Weston Manor's Sounds of Summer** | **Weston Manor's Sounds of Summer** |
-| <a href="https://wordpress.com" target="_blank"><img src="/lovable-uploads/HHF%20banner-2.jpg" alt="Historic Hopewell Foundation: A Celebration of America’s 250 banner" title="Historic Hopewell Foundation: A Celebration of America’s 250" width="180" height="180" /></a> | <a href="/lovable-uploads/Weston%20Manor%20Summer%20Concert%20Series_June%202026.jpg" target="_blank"><img src="/lovable-uploads/Weston%20Manor%20-2.jpg" alt="Photo of a Weston Manor event" title="Weston Manor's Sounds of Summer" width="180" height="180" /></a> | <a href="https://wordpress.com" target="_blank"><img src="/lovable-uploads/Hooray%20for%20Hopewell%20History%20Image.png" alt="Photo of a Hopewell History event" title="Hooray for Hopewell History" width="180" height="180" /></a> |
-| **HHF: A Celebration of America’s 250** | **Weston Manor's Sounds of Summer** | **Weston Manor's Sounds of Summer** |
-            
+<style>
+  .custom-table {
+    border-collapse: collapse;
+    width: auto;
+  }
+  .custom-table td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    vertical-align: top;
+    text-align: center;
+  }
+  .custom-table img {
+    width: 180px;
+    height: 180px;
+    display: block;
+    margin: 0 auto 8px auto;
+    object-fit: cover;
+  }
+  .custom-table figcaption {
+    font-size: 12px;
+    line-height: 1.2;
+    max-width: 150px;
+  }
+</style>
+
+<table class="custom-table">
+  <tbody>
+    <!-- Row 1 -->
+    <tr>
+      <!-- Column 1 -->
+      <td>
+        <a href="https://arcgis.com" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="/lovable-uploads/Ships-offshore_r.jpg" alt="Photo of a ship" title="City Point Historic District Walking Tour" />
+            <figcaption><strong>City Point Historic District Walking Tour</strong></figcaption>
+          </figure>
+        </a>
+      </td>
+      <!-- Column 2 -->
+      <td>
+        <a href="https://arcgis.com" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="/lovable-uploads/War-2.jpg" alt="Photo of war generals " title="War Stories and Heroes of Hopewell, Virginia" />
+            <figcaption><strong>War Stories & Heroes of Hopewell</strong></figcaption>
+          </figure>
+        </a>
+      </td>
+      <!-- Column 3 -->
+      <td>
+        <a href="https://hopewellva250-events.org" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="/lovable-uploads/Grant.jpg" alt="Photo of a General Grant" title="General Ulysses S. Grant at City Point" />
+            <figcaption><strong>General Ulysses S. Grant at City Point</strong></figcaption>
+          </figure>
+        </a>
+      </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
+      <!-- Column 1 -->
+      <td>
+        <a href="https://wordpress.com" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="/lovable-uploads/HHF%20banner-2.jpg" alt="Historic Hopewell Foundation: A Celebration of America’s 250 banner" title="Historic Hopewell Foundation: A Celebration of America’s 250" />
+            <figcaption><strong>HHF: A Celebration of America’s 250</strong></figcaption>
+          </figure>
+        </a>
+      </td>
+      <!-- Column 2 -->
+      <td>
+        <a href="/lovable-uploads/Weston%20Manor%20Summer%20Concert%20Series_June%202026.jpg" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="/lovable-uploads/Weston%20Manor%20-2.jpg" alt="Photo of a Weston Manor event" title="Weston Manor's Sounds of Summer" />
+            <figcaption><strong>Weston Manor's Sounds of Summer</strong></figcaption>
+          </figure>
+        </a>
+      </td>
+      <!-- Column 3 -->
+      <td>
+        <a href="https://wordpress.com" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="/lovable-uploads/Hooray%20for%20Hopewell%20History%20Image.png" alt="Photo of a Hopewell History event" title="Hooray for Hopewell History" />
+            <figcaption><strong>Weston Manor's Sounds of Summer</strong></figcaption>
+          </figure>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+      
               </motion.div>
             </motion.div>
           </BackgroundGradient>
