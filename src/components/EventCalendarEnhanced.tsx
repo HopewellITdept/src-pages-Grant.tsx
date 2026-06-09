@@ -251,7 +251,7 @@ const EventCalendarEnhanced = () => {
                     alt="Photo of a Hopewell History event"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="Hooray for Hopewell History"
-                  /><figcaption><strong>Weston Manor's Sounds of Summer</strong></figcaption></figure>
+                  /><figcaption><strong>Hooray for Hopewell History</strong></figcaption></figure>
                 </a>
               </motion.div>
             </motion.div>
