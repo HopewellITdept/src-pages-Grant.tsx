@@ -227,7 +227,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>HHF: A Celebration of America’s 250</strong></figcaption></figure>
                 </a>
  <a
-                  href="/lovable-uploads/Weston%20Manor%20Summer%20Concert%20Series_June%202026.jpg" 
+                  href="https://www.historichopewell.org/events/sounds-of-summer" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
