@@ -266,7 +266,7 @@ const EventCalendarEnhanced = () => {
                     alt="Photo of a Appoomattox Manor"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="Appomattox Manor"
-                  /><figcaption><strong>Appomattox Manor</strong></figcaption></figure>
+                  /><figcaption><strong>Appomattox Manor Walking Tour</strong></figcaption></figure>
                 </a>
                 
  <a
@@ -280,7 +280,7 @@ const EventCalendarEnhanced = () => {
                     alt="Photo of a Weston Manor"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="Weston Manor"
-                  /><figcaption><strong>Weston Manor</strong></figcaption></figure>
+                  /><figcaption><strong>Weston Manor Walking Tour</strong></figcaption></figure>
                 </a> 
               </motion.div>
             </motion.div>
