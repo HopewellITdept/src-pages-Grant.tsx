@@ -174,114 +174,77 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
-<a
-                  href="https://storymaps.arcgis.com/stories/63faed75323d4a118d4491d92fdc0041" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >
-                  <figure><img
-                    src="/lovable-uploads/VA%20museum.jpg"
-                    alt="Photo of a VA Museum ad"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="VA250 - Hopewell Mobile Museum"
-                  /><figcaption><strong>Hopewell Mobile Museum</strong></figcaption></figure>
-                </a>
-
-<a
-                  href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >
-                  <figure><img
-                    src="/lovable-uploads/Ships-offshore_r.jpg"
-                    alt="Photo of a ship"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="City Point Historic District Walking Tour"
-                  /><figcaption><strong>City Point Historic District Walking Tour</strong></figcaption></figure>
-                </a>
- <a
-                  href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >            
-                  <figure><img
-                    src="/lovable-uploads/War-2.jpg"
-                    alt="Photo of war generals "
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="War Stories and Heroes of Hopewell, Virginia"
-                  /><figcaption><strong>War Stories & Heroes of Hopewell</strong></figcaption></figure>
-                </a>
- <a
-                  href="https://hopewellva250-events.org/" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >
-                  <figure><img
-                    src="/lovable-uploads/Grant.jpg"
-                    alt="Photo of a General Grant"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="General Ulysses S. Grant at City Point"
-                  /><figcaption><strong>General Ulysses S. Grant at City Point</strong></figcaption></figure>
-                </a>
- <a
-                  href="https://itdept9800013c97-dkqyi.wordpress.com/historic-hopewell-foundation-a-celebration-of-americas-250/" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >            
-                  <figure><img
-                    src="/lovable-uploads/HHF%20banner-2.jpg"
-                    alt="Historic Hopewell Foundation: A Celebration of America’s 250 banner"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="Historic Hopewell Foundation: A Celebration of America’s 250"
-                  /><figcaption><strong>HHF: A Celebration of America’s 250</strong></figcaption></figure>
-                </a>
-
- <a
-                  href="https://itdept9800013c97-dkqyi.wordpress.com/hooray-for-hopewell-history/" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >
-                  <figure><img
-                    src="/lovable-uploads/Hooray%20for%20Hopewell%20History%20Image.png"
-                    alt="Photo of a Hopewell History event"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="Hooray for Hopewell History"
-                  /><figcaption><strong>Hooray for Hopewell History</strong></figcaption></figure>
-                </a>
-
- <a
-                  href="https://www.youtube.com/shorts/C39nycwtLf8" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >
-                  <figure><img
-                    src="/lovable-uploads/Appomattox%20Manor%202.png"
-                    alt="Photo of a Appoomattox Manor"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="Appomattox Manor"
-                  /><figcaption><strong>Appomattox Manor</strong></figcaption></figure>
-                </a>
-                
- <a
-                  href="https://www.youtube.com/shorts/t0fTaNCWZrA" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >
-                  <figure><img
-                    src="/lovable-uploads/Weston%20Manor%202.png"
-                    alt="Photo of a Weston Manor"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="Weston Manor"
-                  /><figcaption><strong>Weston Manor</strong></figcaption></figure>
-                </a>            
+<table align="center">
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://storymaps.arcgis.com/stories/63faed75323d4a118d4491d92fdc0041" target="_blank" rel="noopener noreferrer">
+        <img src="/lovable-uploads/VA%20museum.jpg" alt="Photo of a VA Museum ad" width="315" style="max-width: 100%; border-radius: 8px;" title="VA250 - Hopewell Mobile Museum" />
+        <br />
+        <strong>Hopewell Mobile Museum</strong>
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" target="_blank" rel="noopener noreferrer">
+        <img src="/lovable-uploads/Ships-offshore_r.jpg" alt="Photo of a ship" width="315" style="max-width: 100%; border-radius: 8px;" title="City Point Historic District Walking Tour" />
+        <br />
+        <strong>City Point Historic District Walking Tour</strong>
+      </a>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" target="_blank" rel="noopener noreferrer">
+        <img src="/lovable-uploads/War-2.jpg" alt="Photo of war generals" width="315" style="max-width: 100%; border-radius: 8px;" title="War Stories and Heroes of Hopewell, Virginia" />
+        <br />
+        <strong>War Stories & Heroes of Hopewell</strong>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://hopewellva250-events.org/" target="_blank" rel="noopener noreferrer">
+        <img src="/lovable-uploads/Grant.jpg" alt="Photo of a General Grant" width="315" style="max-width: 100%; border-radius: 8px;" title="General Ulysses S. Grant at City Point" />
+        <br />
+        <strong>General Ulysses S. Grant at City Point</strong>
+      </a>
+    </td>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://itdept9800013c97-dkqyi.wordpress.com/historic-hopewell-foundation-a-celebration-of-americas-250/" target="_blank" rel="noopener noreferrer">
+        <img src="/lovable-uploads/HHF%20banner-2.jpg" alt="Historic Hopewell Foundation: A Celebration of America’s 250 banner" width="315" style="max-width: 100%; border-radius: 8px;" title="Historic Hopewell Foundation: A Celebration of America’s 250" />
+        <br />
+        <strong>HHF: A Celebration of America’s 250</strong>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://itdept9800013c97-dkqyi.wordpress.com/hooray-for-hopewell-history/" target="_blank" rel="noopener noreferrer">
+        <img src="/lovable-uploads/Hooray%20for%20Hopewell%20History%20Image.png" alt="Photo of a Hopewell History event" width="315" style="max-width: 100%; border-radius: 8px;" title="Hooray for Hopewell History" />
+        <br />
+        <strong>Hooray for Hopewell History</strong>
+      </a>
+    </td>
+  </tr>
+  <!-- Row 4 -->
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://www.youtube.com/shorts/C39nycwtLf8" target="_blank" rel="noopener noreferrer">
+        <img src="/lovable-uploads/Appomattox%20Manor%202.png" alt="Photo of a Appoomattox Manor" width="315" style="max-width: 100%; border-radius: 8px;" title="Appomattox Manor" />
+        <br />
+        <strong>Appomattox Manor</strong>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.youtube.com/shorts/t0fTaNCWZrA" target="_blank" rel="noopener noreferrer">
+        <img src="/lovable-uploads/Weston%20Manor%20-2.jpg" alt="Photo of a Weston Manor" width="315" style="max-width: 100%; border-radius: 8px;" title="Weston Manor" />
+        <br />
+        <strong>Weston Manor</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+       
               </motion.div>
             </motion.div>
           </BackgroundGradient>
