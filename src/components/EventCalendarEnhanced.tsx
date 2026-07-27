@@ -188,11 +188,6 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>Hopewell Mobile Museum</strong></figcaption></figure>
                 </a>
 
-
-
-
-
-                
 <a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
@@ -259,6 +254,34 @@ const EventCalendarEnhanced = () => {
                     title="Hooray for Hopewell History"
                   /><figcaption><strong>Hooray for Hopewell History</strong></figcaption></figure>
                 </a>
+
+ <a
+                  href="https://www.youtube.com/shorts/C39nycwtLf8" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block max-w-xs"
+                >
+                  <figure><img
+                    src="/lovable-uploads/Appomattox%20Manor%202.png"
+                    alt="Photo of a Appoomattox Manor"
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="Appomattox Manor"
+                  /><figcaption><strong>Appomattox Manor</strong></figcaption></figure>
+                </a>
+                
+ <a
+                  href="https://www.youtube.com/shorts/t0fTaNCWZrA" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block max-w-xs"
+                >
+                  <figure><img
+                    src="/lovable-uploads/Weston%20Manor%20-2.jpg"
+                    alt="Photo of a Weston Manor"
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="Weston Manor"
+                  /><figcaption><strong>Weston Manor</strong></figcaption></figure>
+                </a>            
               </motion.div>
             </motion.div>
           </BackgroundGradient>
