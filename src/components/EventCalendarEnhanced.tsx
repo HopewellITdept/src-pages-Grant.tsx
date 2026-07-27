@@ -226,19 +226,6 @@ const EventCalendarEnhanced = () => {
                     title="Historic Hopewell Foundation: A Celebration of America’s 250"
                   /><figcaption><strong>HHF: A Celebration of America’s 250</strong></figcaption></figure>
                 </a>
- <a
-                  href="https://www.historichopewell.org/events/sounds-of-summer" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block max-w-xs"
-                >
-                  <figure><img
-                    src="/lovable-uploads/Weston%20Manor%20-2.jpg"
-                    alt="Photo of a Weston Manor event"
-                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="Weston Manor's Sounds of Summer"
-                  /><figcaption><strong>Weston Manor's Sounds of Summer</strong></figcaption></figure>
-                </a>
 
  <a
                   href="https://itdept9800013c97-dkqyi.wordpress.com/hooray-for-hopewell-history/" 
