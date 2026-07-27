@@ -175,6 +175,25 @@ const EventCalendarEnhanced = () => {
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
 <a
+                  href="https://storymaps.arcgis.com/stories/63faed75323d4a118d4491d92fdc0041" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block max-w-xs"
+                >
+                  <figure><img
+                    src="/lovable-uploads/VA%20museum.jpg"
+                    alt="Photo of a VA Museum ad"
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="VA250 - Hopewell Mobile Museum"
+                  /><figcaption><strong>Hopewell Mobile Museum</strong></figcaption></figure>
+                </a>
+
+
+
+
+
+                
+<a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
                   rel="noopener noreferrer"
